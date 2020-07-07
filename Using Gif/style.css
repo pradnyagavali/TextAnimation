@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right ,green ,pink);
+}
+h1{
+	font-family: verdana;
+	text-align: center;
+	margin-top: 150px;
+	font-size: 150px;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/vnNHyroyEwb4s/giphy.gif);
+    background-position: center;
+    -webkit-background-clip:text;
+}
